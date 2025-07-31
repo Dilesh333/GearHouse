@@ -1,12 +1,66 @@
-# React + Vite
+# 🚀 GearHouse - Live @ [lively-longma-f9518f.netlify.app](https://lively-longma-f9518f.netlify.app)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **GearHouse**, a modern web application built to sell electronics.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+🟢 Visit Now → [lively-longma-f9518f.netlify.app](https://lively-longma-f9518f.netlify.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React.js (Vite)
+- 💨 Tailwind CSS
+- 🔄 React Router DOM
+- 📦 Context API
+- 🔗 Hosted on Netlify
+
+---
+
+## ✨ Features
+
+- 🔍 Clean & responsive UI
+- 📱 Mobile-first design
+- ⚡ Fast loading with lazy loading & code splitting
+- 🧭 SPA navigation with smooth scroll
+- 🔐 Auth / Login
+- 🛒  Cart
+
+---
+
+## 📁 Folder Structure 
+
+
+src/
+│
+├── assets/            # Images and static files
+├── components/        # Reusable UI components
+├── pages/             # Page-level components (Home, About, etc.)
+├── routes/            # React Router setup
+├── services/          # API services
+├── utils/             # Helper functions
+├── App.jsx
+├── main.jsx
+└── index.css
+
+
+🚀 Getting Started
+
+# 1. Clone the repo
+git clone https://github.com/your-username/your-repo.git
+
+# 2. Navigate into the project
+cd project-name
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+
+👤 Author
+Made with ❤️ by Dilesh
