@@ -50,7 +50,7 @@ src/
 🚀 Getting Started
 
 # 1. Clone the repo
-git clone https://github.com/your-username/your-repo.git
+git clone [https://github.com/your-username/your-repo.git](https://github.com/Dilesh333/GearHouse)
 
 # 2. Navigate into the project
 cd project-name
