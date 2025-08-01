@@ -26,9 +26,12 @@ Welcome to **GearHouse**, a modern web application built to sell electronics.
 - 📱 Mobile-first design
 - ⚡ Fast loading with lazy loading & code splitting
 - 🧭 SPA navigation with smooth scroll
-- 🔐 Auth / Login
+- 🔐 Auth / Login (clerk)
 - 🛒  Cart
-
+- 
+---
+## Screenshot
+[Homepage Screenshot](src/assets/HOME.png)
 ---
 
 ## 📁 Folder Structure 
