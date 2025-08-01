@@ -31,7 +31,7 @@ Welcome to **GearHouse**, a modern web application built to sell electronics.
 - 
 ---
 ## Screenshot
-[Homepage Screenshot](src/assets/HOME.png)
+![Homepage Screenshot](public/HOME.png)
 ---
 
 ## 📁 Folder Structure 
@@ -53,7 +53,7 @@ src/
 🚀 Getting Started
 
 # 1. Clone the repo
-git clone [https://github.com/your-username/your-repo.git](https://github.com/Dilesh333/GearHouse)
+git clone [https://github.com/Dilesh333/GearHouse](https://github.com/Dilesh333/GearHouse)
 
 # 2. Navigate into the project
 cd project-name
