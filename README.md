@@ -30,9 +30,6 @@ Welcome to **GearHouse**, a modern web application built to sell electronics.
 - 🛒  Cart
 - 
 ---
-## Screenshot
-![Homepage Screenshot](public/HOME.png)
----
 
 ## 📁 Folder Structure 
 
