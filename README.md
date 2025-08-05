@@ -16,6 +16,7 @@ Welcome to **GearHouse**, a modern web application built to sell electronics.
 - 💨 Tailwind CSS
 - 🔄 React Router DOM
 - 📦 Context API
+- 🌐 Fakestore API
 - 🔗 Hosted on Netlify
 
 ---
